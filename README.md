@@ -18,7 +18,7 @@ On this site I would like to share my all experience gained at personal studies 
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - Creating user stories, persona
+  - Creating user stories, persons
   - ISTQB: knowledge contained in the syllabus (exam in August 2021)
   - basic programming skills: html, scss, Java script, Java
 
