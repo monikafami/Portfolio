@@ -7,7 +7,8 @@ On this site I would like to share my all experience gained at personal studies 
 
 # Tools 
   - Test Management Tools - Google Sheets, Trello, [Jira](https://www.atlassian.com/software/jira0), TestLink
-  - Test Automation Tools - (Java, Selenium Webdriver - basic), Selenium IDE  
+  - Test Automation Tools - (Java, Selenium Webdriver - basic), Selenium IDE
+  - Test Performance Tools - JMeter, Blazemeter Plugin
   - API Testing Tools - [Postman](https://www.postman.com/), [SoapUI](https://www.soapui.org/), Chrome DevTools
   - Other Tools - [Mindmap](https://https://app.mindmup.com//), [Draw.io](https://app.diagrams.net/), Enterprise Architect, Photoshop, MS Project
   
