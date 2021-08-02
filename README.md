@@ -37,5 +37,4 @@ On this site I would like to share my all experience gained at personal studies 
   - [online shop -  www.moira.com.pl](http://bluzkadamska.pl/pl/)
   - [functional test of the banking application](https://drive.google.com/file/d/1nZvkWJPoNweNM4QfPrl8SBODol0m1Guc/view?usp=sharing)
   - [automated testing](https://github.com/monikafami/BrowserStack/blob/main/src/browser/ProjectBrowserStack.java)
-  - [bug report for the mobile app - Oysho](https://drive.google.com/file/d/1zHHKW_lbZzeQs-42EAClm6uIxOE8MAzw/view?usp=sharing)
   - [laptop Asus ROG STRIX stress testing](https://drive.google.com/file/d/1cPsiITgr3nDu565Me6PF6xfHKpMLXxm9/view?usp=sharing)
